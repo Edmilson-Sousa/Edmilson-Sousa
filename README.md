@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Edmilson Gonçalves de Sousa
+# 👋 Olá, eu sou o Edmilson Sousa
 
 💻 **Analista de Sistemas**  
 📚 **Estudando SQL Server para me tornar DBA**  
