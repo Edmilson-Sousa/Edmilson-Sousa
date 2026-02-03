@@ -1,48 +1,47 @@
-Sou Analista de Sistemas com experiência em suporte e sustentação de sistemas corporativos, atuando principalmente em ambientes críticos e no atendimento a usuários de áreas de negócio.
+# 👋 Olá, eu sou o Edmilson Sousa
 
-Atualmente trabalho com sistemas RM TOTVS, especialmente no contexto da área da saúde, realizando diagnóstico e resolução de incidentes, garantindo a integridade dos dados e apoiando a continuidade operacional dos sistemas. Tenho vivência próxima com usuários das áreas médica, faturamento, RH e TI, sempre com foco em clareza, agilidade e qualidade no suporte.
+💻 **Analista de Sistemas**  
+📚 **Estudando SQL Server para me tornar DBA**  
+📍 Rio de Janeiro - RJ
 
-Sou pós-graduado em Engenharia de Banco de Dados e atualmente estudo SQL Server com foco em administração de banco de dados, visando minha especialização e atuação como DBA. Possuo sólidos conhecimentos em SQL Server e Oracle, com experiência na criação de consultas, relatórios gerenciais e análises de dados para apoio à tomada de decisão.
+Sou Analista de Sistemas com experiência em **suporte, sustentação e atendimento a usuários de áreas de negócio**, especialmente em **ambientes críticos**.
 
-💼 Áreas de atuação
+Atualmente trabalho com **sistemas RM TOTVS**, com foco em **diagnóstico e resolução de incidentes** na área da saúde, garantindo a **qualidade e integridade dos dados** e a continuidade operacional dos sistemas.
 
-Suporte e sustentação de sistemas corporativos
+Sou pós-graduado em **Engenharia de Banco de Dados** e tenho conhecimento em **SQL Server**, criando consultas e relatórios para **análises e apoio à tomada de decisões**.
 
-Sistemas RM TOTVS (Saúde, Labore, Folha, Chronus, Vitae)
+Além disso, estou dedicado ao estudo de **Administração de Banco de Dados (DBA) em SQL Server**, com foco em desenvolvimento de habilidades práticas e performance de ambientes de dados.
 
-Atendimento a usuários e áreas de negócio
+---
 
-Ambientes críticos e resolução de incidentes
+## 🚀 Habilidades Técnicas
 
-Análise e integridade de dados
+### 🗄️ Banco de Dados
+- SQL Server (em estudo para DBA)
+- Desenvolvedor de SQL 
+- Consultas e relatórios
 
-🛠️ Conhecimentos técnicos
+### 🖥️ Suporte e Sistemas
+- RM TOTVS (Saúde, Labore, Folha, Chronus, Vitae)
+- Suporte e troubleshooting de sistemas
+- Atendimento ao usuário
+- Integridade de dados
 
-SQL Server (Administração e estudos para DBA)
+### 📊 Análise de Dados
+- Relatórios gerenciais
+- Extração e interpretação de dados
+- Apoio à decisão
 
-Oracle
+---
 
-RM TOTVS
+## 🏆 Formação
 
-Relatórios Gerenciais
+- 🎓 **MIT em Engenharia de Banco de Dados** – Instituto Infnet  
+- 🎓 **Bacharel em Sistemas de Informação** – Universidade Veiga de Almeida
 
-Análise de Dados
+---
 
-Suporte a Sistemas
+## 📌 Onde me encontrar
 
-🎓 Formação
+🔗 LinkedIn: https://www.linkedin.com/in/edmilson-g-sousa/  
 
-MIT em Engenharia de Banco de Dados – Instituto Infnet
-
-Bacharel em Sistemas de Informação – Universidade Veiga de Almeida
-
-🌍 Idiomas
-
-Português: Nativo
-
-Inglês: Intermediário
-
-Francês: Básico
-
-📌 Objetivo profissional:
-Atuar como Analista de Sistemas / Suporte, com transição planejada para DBA SQL Server, contribuindo para a estabilidade, segurança e evolução dos ambientes de banco de dados e sistemas corporativos.
